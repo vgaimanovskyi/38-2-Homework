@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "HansKendrick";
+    src: url("../fonts/NeueHansKendrick-Regular.otf") format("otf"),
+        url("../fonts/NeueHansKendrick-Regular.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
